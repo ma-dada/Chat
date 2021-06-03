@@ -2,5 +2,6 @@
 
 ## 如何使用
 1. 安装 node.js
+2. 安装 npm install
 3. 执行 node server.js
 4. 访问 http://localhost:5000
